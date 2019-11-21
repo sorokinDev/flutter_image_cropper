@@ -2,8 +2,6 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 
-pod 'TOCropViewController', :git => 'https://github.com/sorokinDev/TOCropViewController.git'
-
 Pod::Spec.new do |s|
   s.name             = 'image_cropper'
   s.version          = '0.0.1'
